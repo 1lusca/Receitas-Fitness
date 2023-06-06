@@ -31,5 +31,7 @@ O aplicativo de Receitas Fitness é uma ferramenta indispensável para aqueles q
 
 ##
 
-<img src="http://ForTheBadge.com/images/badges/built-with-love.svg">
+<p align="center">
+  <img src="http://ForTheBadge.com/images/badges/built-with-love.svg">
+</p>
 
