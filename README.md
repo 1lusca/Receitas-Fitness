@@ -4,10 +4,10 @@
 ##
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/github/license/1lusca/receitas-fitness">
+  <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/github/license/1lusca/receitas-fitness.svg">
+  <img src="https://img.shields.io/github/followers/1lusca.svg?style=social&label=Follow&maxAge=2592000">
 </p>
-
 
 ## ⚽ Receitas Fitness ⚽
 
